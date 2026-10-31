@@ -19,11 +19,9 @@ Platform website sistem informasi Pos Bantuan Hukum (Posbakum) berbasis Laravel 
 
 ---
 
-## 📸 Tampilan Antarmuka (Screenshots)
+## ## 📸 Tampilan Antarmuka (Screenshots)
 
-*(Ganti baris ini dengan gambar screenshot proyek jika sudah di-upload)*
-![Tampilan Utama Posbakum](screenshot-posbakum.png)
-
+![Tampilan Utama Posbakum](Screenshot%202026-10-31%20161755.png)
 ---
 
 ## ⚙️ Cara Menjalankan Proyek (Installation)
